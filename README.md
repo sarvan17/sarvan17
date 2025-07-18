@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Om Sarvan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=FrontEnd+Developer;Open+Source+Contributor;Tech+Enthusiast&center=true&width=500&height=45">
 </p>
 
 ## 🙋‍♂️ About Me
@@ -42,7 +42,7 @@
 
 ## 📫 How to reach me
 
-<p align="left">
+<p align="center">
   <a href="mailto:codesarvan17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/om-sarvan-09b64b26a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </p>
