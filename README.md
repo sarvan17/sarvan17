@@ -1,14 +1,8 @@
-<h1 align="center">Hey 👋, I'm Sarvan Om</h1>
+<h1 align="center">Hey 👋, I'm Om Sarvan</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Open+Source+Contributor;Tech+Enthusiast&center=true&width=500&height=45">
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&label=Profile%20views&color=0e75b6&style=flat" alt="Sarvan Om" />
-</p>
-
----
 
 ## 🙋‍♂️ About Me
 
