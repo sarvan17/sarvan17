@@ -6,9 +6,9 @@
 
 ## 🙋‍♂️ About Me
 - Currently pursuing my **B.Tech in Computer Science Engineering(Final Year)**
--  I’m currently learning **React, Node.js, Docker**
+-  I’m currently learning **React, Node.js**
 -  I’m looking to collaborate on **full-stack web apps**
--  Ask me about **web development, Git, and Python**
+-  Ask me about **web development,and Python**
 -  Fun fact: I love solving coding puzzles & creating beautiful UIs
 
 ---
