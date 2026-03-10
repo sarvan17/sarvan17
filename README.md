@@ -42,7 +42,7 @@
 ## 📫 How to reach me
 
 <p align="center">
-  <a href="mailto:codesarvan17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto: omsarvan45@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/om-sarvan-09b64b26a"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://www.instagram.com/sarvan_.17?igsh=MWt0MXQ0NDAwYTE3MQ=="><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </p>
